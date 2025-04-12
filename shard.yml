@@ -1,0 +1,10 @@
+name: slackcry
+version: 1.0.0
+authors:
+  - Tyler <tyler@appcorp.com>
+description: Lightweight Slack client library in Crystal
+license: MIT
+
+dependencies:
+  dotenv:
+    github: gdotdesign/cr-dotenv

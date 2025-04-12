@@ -1,0 +1,33 @@
+# Crystal build artifacts
+/.shards/
+/.crystal/
+/lib/
+/docs/
+/bin/
+
+# Compiled binaries
+*.o
+*.a
+*.dwarf
+*.dSYM/
+*.exe
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment files
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Crystal coverage/test tools
+coverage/
+.crystal-spec/
+
+# OS junk
+*~
